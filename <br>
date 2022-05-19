@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<title>HTML Paragraph</title>
+</head>
+
+<body>
+
+	<p>
+줄을 나누자<br>
+이렇게 되나.<br>
+<br>
+줄바꾸기와 띄어쓰기가      그대로     출력이     되나?
+	</p>
+
+</body>
+
+</html>
